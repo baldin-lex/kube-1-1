@@ -85,7 +85,7 @@ kube-baldin-test   Ready    <none>   161m   v1.29.4
 
 3. Подключиться к дашборду с помощью port-forward.
 
-![kube-1.1](img/1.jpg)
+![kube-1.1](1/1.jpg)
 
 ------
 
